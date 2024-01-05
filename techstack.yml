@@ -1,7 +1,8 @@
 repo_name: abenteuerzeit/AzureCertificationTests
 report_id: 78a3b344210f1d1cf9044cb163d58372
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T10:24:20+00:00'
+timestamp: '2024-01-05T08:49:07+00:00'
 requested_by: abenteuerzeit
 provider: github
 branch: development
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/abenteuerzeit/AzureCertificationTests
   detection_source: Repo Metadata
